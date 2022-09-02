@@ -1,10 +1,45 @@
-body {
-background-color: rgb(74, 88, 84);
+body{
+    background-color: #38b8e9;
 }
-.forms{
-    text-align: center;
-    
+
+.main{
+    background-color: #292c7a;
+    float: left;
+    margin-right:8%;
+    margin-left: 8%;
+    margin-top: 8%;
+    margin-bottom: 8%;
+    border-radius: 2%;
 }
-.forms, .fname, .lname, .number{
-    
+h1{
+    font-size: 40px;
+    padding-left: 5%;
+    padding-top:7%;
+    color:#f07c1e;
 }
+h3{
+    padding-left: 5%;
+    color: #2e8fe5;
+}
+a{
+    color: #2d89e0;
+    padding-left: 5%;
+}
+p{
+    padding-left: 5%;
+    color:#c7c8dc;
+    width:50%;
+}
+img{
+    float: right;
+    margin-right: 8%;
+    width: 13em;
+    height: 13em;
+    border-radius:6%;
+}
+ul{
+    padding-left: 6%;
+    color:#2d89e0;
+    padding-bottom: 6%;
+}
+
